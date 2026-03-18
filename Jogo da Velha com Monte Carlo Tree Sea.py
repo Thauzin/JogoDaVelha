@@ -1,4 +1,4 @@
-# Jogo da Velha com Monte Carlo Tree Search (MCTS)
+Jogo da Velha com Monte Carlo Tree Search (MCTS)
 
 import math
 import random
